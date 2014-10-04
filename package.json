@@ -1,0 +1,10 @@
+{
+  "name": "io.pinf.db.redis",
+  "version": "0.1.0",
+  "private": true,
+  "config": {
+    "pio.deploy.converter": {
+      "name": "scripts-only"
+    }
+  }
+}
